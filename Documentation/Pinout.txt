@@ -1,0 +1,13 @@
+SmartLock BGM220 board pinout
+
+↑ Microcontroller side up
+
+                       J1   J2
+          Power ground -O 1 O
+            Power +5 V -O 2 O
+Temperature sensor SDA -O 3 O- OLED SDA
+Temperature sensor SCL -O 4 O
+                        O 5 O- OLED SCL
+                        O 6 O- Light relay
+      Proximity sensor -O 7 O
+                 Servo -O 8 O- Buzzer

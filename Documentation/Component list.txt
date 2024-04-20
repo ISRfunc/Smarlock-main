@@ -1,0 +1,10 @@
+Project SDK version: 4.0.2
+Project template: SoC empty
+
+Installed components:
+I2CSPM (instance name: qwiic)
+PWM (instance name: servo)
+
+Uninstalled components:
+Bootloader application interface
+OTA DFU
